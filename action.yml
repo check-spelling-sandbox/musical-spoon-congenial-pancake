@@ -1,4 +1,4 @@
-# name: musical-spoon-congenial-pancake
+name: musical-spoon-congenial-pancake
 description: musical spoon congenial pancake
 runs:
   using: 'composite'
