@@ -1,0 +1,8 @@
+name: musical-spoon-congenial-pancake
+description: musical spoon congenial pancake
+runs:
+  using: 'composite'
+  steps:
+    - shell: bash
+      run: |
+        echo :music: :pancakes:
