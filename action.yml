@@ -1,4 +1,6 @@
 name: musical-spoon-congenial-pancake
+brand:
+  icon: activity
 description: musical spoon congenial pancake
 runs:
   using: 'composite'
