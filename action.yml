@@ -1,6 +1,7 @@
 name: musical-spoon-congenial-pancake
 branding:
   icon: activity
+  color: purple
 description: musical spoon congenial pancake
 runs:
   using: 'composite'
